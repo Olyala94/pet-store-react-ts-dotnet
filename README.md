@@ -7,4 +7,6 @@ Bu projede kullandığımız teknolojiler ve bileşenler aşağıda listelenmiş
 - **TypeScript**
 - **MS SQL SERVER**
 - **Entity Framework Core**
-- **Solution Architecture**
+# Solution Architecture
+- ![SolutionArchitecture](https://github.com/Olyala94/pet-store-react-ts-dotnet/assets/119108499/2648f392-4b66-4099-9180-72b2e3bcb1e1)
+
