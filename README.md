@@ -1,6 +1,6 @@
 # Solution Technologies
 
-Bu projede kullandığımız teknolojiler ve bileşenler aşağıda listelenmiştir:
+The technologies and components used in this project are listed below:
 
 - **Asp.Net Core** (Versiyon: .NET 7.0)
 - **React** (Versiyon: 18)
